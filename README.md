@@ -1,2 +1,2 @@
 # flask-tutorial
-A microblog application as a tutorial on flask library
+A simple application as a tutorial on flask library
